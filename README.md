@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jennifer and I am a fourth year Design and Cognitive Science student at the University of California, Davis.
+- 👋 Hi, I’m Jennifer and I am a UX/UI Designer with a Design and Cognitive Science background.
 - 👀 I’m interested in designing daily interaction that humans perform with electronical devices, and I would love to solve issues that come with human and machine interaction interface.
 - 💞️ I’m looking for opportunities as an UX designer, and seeking for more experience in human centered design field!
 <!---
